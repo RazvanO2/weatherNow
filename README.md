@@ -17,6 +17,4 @@ Dark mode on
 <img src="https://raw.githubusercontent.com/RazvanO2/weatherNow/main/readme/darkmode.png"  width="40%">
 
 Quick video to show how the app works :)
-<div align="center">
-  <video src="https://raw.githubusercontent.com/RazvanO2/weatherNow/main/readme/recording.mp4" width="400" />
-</div>
+<img src="https://raw.githubusercontent.com/RazvanO2/weatherNow/main/readme/gif.gif"  width="40%">
