@@ -14,5 +14,5 @@ Dark mode off
 Dark mode on
 <img src="https://i.imgur.com/tM1IJNI.png"  width="40%">
 
-Quick video to show of the app works :)
+Quick video to show how the app works :)
 <img src="https://i.ibb.co/TM6hcpW/Simulator-Screen-Recording-i-Phone-14-Pro-2023-04-15-at-16-10-17-2.gif"  width="40%">
