@@ -7,7 +7,12 @@ and the UIKit framework. It relies on OpenWeatherMap's API to offer real-time we
 The app also supports Dark mode!
 
 **Screenshots**
-![Main page with dark mode on](https://i.imgur.com/tM1IJNI.png)
-![Main page with dark mode off](https://i.imgur.com/4aobL7p.png)
 
-![Short video that shows how the app works :)](https://i.imgur.com/8MJGZLt.mp4)
+Dark mode off
+<img src="https://i.imgur.com/4aobL7p.png"  width="40%">
+
+Dark mode on
+<img src="https://i.imgur.com/tM1IJNI.png"  width="40%">
+
+Quick video to show of the app works :)
+<img src="https://i.ibb.co/TM6hcpW/Simulator-Screen-Recording-i-Phone-14-Pro-2023-04-15-at-16-10-17-2.gif"  width="40%">
