@@ -9,9 +9,9 @@ The app also supports Dark mode!
 **Screenshots**
 
 <p float="left">
-<img src="https://raw.githubusercontent.com/RazvanO2/weatherNow/main/readme/lightmode.png"  width="20%">
-<img src="https://raw.githubusercontent.com/RazvanO2/weatherNow/main/readme/darkmode.png"  width="20%">
-<img src="https://raw.githubusercontent.com/RazvanO2/weatherNow/main/readme/gif.gif"  width="20%">
+<img src="https://raw.githubusercontent.com/RazvanO2/weatherNow/main/readme/lightmode.png"  width="30%">
+<img src="https://raw.githubusercontent.com/RazvanO2/weatherNow/main/readme/darkmode.png"  width="30%">
+<img src="https://raw.githubusercontent.com/RazvanO2/weatherNow/main/readme/gif.gif"  width="30%">
 </p>
 
 
