@@ -10,11 +10,13 @@ The app also supports Dark mode!
 
 Dark mode off
 
-<img src="https://i.imgur.com/4aobL7p.png"  width="40%">
+<img src="https://raw.githubusercontent.com/RazvanO2/weatherNow/main/readme/lightmode.png"  width="40%">
 
 Dark mode on
 
-<img src="https://i.imgur.com/tM1IJNI.png"  width="40%">
+<img src="https://raw.githubusercontent.com/RazvanO2/weatherNow/main/readme/darkmode.png"  width="40%">
 
 Quick video to show how the app works :)
-https://i.imgur.com/cTiJIUO.mp4
+<div align="center">
+  <video src="https://raw.githubusercontent.com/RazvanO2/weatherNow/main/readme/recording.mp4" width="400" />
+</div>
